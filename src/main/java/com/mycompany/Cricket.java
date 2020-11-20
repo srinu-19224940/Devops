@@ -68,7 +68,7 @@ public class Cricket extends HttpServlet {
      * @throws IOException if an I/O error occurs
      */
     
-    // RETRIVE PLAYERS DATA FROM DATABSE
+    // RETRIVE PLAYERS DATA FROM DATABASE
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
